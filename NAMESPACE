@@ -1,0 +1,5 @@
+export(FMsmsnReg)
+importFrom("stats","kmeans","dnorm","pnorm","dt","pt","var","integrate","plot.ts","optimize","optim","dgamma","pgamma")
+importFrom("mvtnorm","dmvnorm")
+importFrom("graphics","abline","par")
+#importFrom("MASS")

@@ -1,0 +1,12 @@
+765bb20e6d80040d7f0d9f1d41f94392 *DESCRIPTION
+7f3cbfd965b90bb0cfe74ff9a9410248 *NAMESPACE
+d342f3aa3b9721b3b30903f281719266 *R/EMsmsn.mixR.R
+53be021fbe4d535697dfada1c9b515c8 *R/FMsmsnReg.R
+02970875da3890a1f54c093f3d6200c6 *R/MI.R
+beb425be1bf20de948e3bf5d3bf38f56 *R/UtilityFunctions.R
+e9572e444076a8c09e0edc0b46761b64 *data/ais.txt
+6d15a346c6d09c2f8335ec4ef92f5248 *data/horses.txt
+005ddb43a628fb5303fa115a9c9f372e *man/FMsmsnReg-package.Rd
+d79f2406a7583514aee6745fc5e7c18b *man/FMsmsnReg.Rd
+ce479987b07a42d4a16759e3b59afc2d *man/ais.Rd
+cc172dab6d50469f8cdf71564bced5c6 *man/horses.Rd

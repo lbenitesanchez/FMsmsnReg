@@ -1,0 +1,15 @@
+Package: FMsmsnReg
+Type: Package
+Title: Regression Models with Finite Mixtures of Skew Heavy-Tailed
+        Errors
+Version: 1.0
+Date: 2016-03-29
+Author: Luis Benites Sanchez and Rocio Paola Maehara and Victor Hugo Lachos
+Maintainer: Luis Benites Sanchez <lbenitesanchez@gmail.com>
+Imports: mvtnorm
+Description: Fit linear regression models where the random errors follow a finite mixture of of Skew Heavy-Tailed Errors.
+License: GPL (>= 2)
+Repository: CRAN
+NeedsCompilation: no
+Packaged: 2016-03-29 23:45:34 UTC; lbenitesanchez
+Date/Publication: 2016-03-30 08:14:20
